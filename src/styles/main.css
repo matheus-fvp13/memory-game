@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #fc1e8a;
+    background-color: #6d141a;
     user-select: none;
 }
 
@@ -24,8 +24,8 @@ h2 {
     background-image: linear-gradient(
         325deg,
         #03001e 0%,
-        #7303c0 30%,
-        #ec38bc 70%,
+        #ee4c58 30%,
+        #c9010b 70%,
         #fdeff9 100%
     );
     padding: 40px 60px;
@@ -89,6 +89,6 @@ h2 {
 }
 
 .reset:focus {
-    color: #ec38bc;
+    color: #c9010b;
     background-color: #262809;
 }
